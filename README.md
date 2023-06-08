@@ -1,2 +1,2 @@
-# remume
+# resume
 updated periodically
